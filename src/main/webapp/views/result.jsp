@@ -8,8 +8,8 @@
 
 
 
-        <p>Data Fetched by JSTL(Part of JSP standard Library) </p>
-        <h2>Result Is : ${result}  </h2>
+        <p>Welcome </p>
+        <h2>Result Is : ${alien}  </h2>
 
 
     </body>
